@@ -1,0 +1,10 @@
+def get_auction_details():
+    print("auction details")
+def get_all_auction_details():
+    print("auction details")
+def get_active_listings():
+    print("auction details")
+def get_contact_info():
+    print("auction details")
+def get_business_hours():
+    print("auction details")
